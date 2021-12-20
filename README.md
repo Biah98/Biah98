@@ -15,7 +15,7 @@ Bem-vindo(a) ao meu GitHub!😊
 
 
 ![Biah98 stats](https://github-readme-stats.vercel.app/api?username=Biah98&show_icons=true&theme=radical)
-[![Biah98 Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Biah98&layout=compact)](https://github.com/Biah98/github-readme-stats)
+[![Biah98 Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Biah98&layout=compact&langs_count=7&theme=radical)](https://github.com/Biah98/github-readme-stats)
 
 
 
