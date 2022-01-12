@@ -17,7 +17,7 @@ Bem-vindo(a) ao meu GitHub!😊
 <div align="center">
 
 <img width="48%" src= "https://github-readme-stats.vercel.app/api?username=Biah98&show_icons=true&theme=noctis_minimus"/>
-<img width="49%" src= "https://github-readme-stats.vercel.app/api/top-langs/?username=Biah98&layout=compact&langs_count=7&theme=noctis_minimus)](https://github.com/Biah98/github-readme-stats"/>
+<img width="49%" src= "https://github-readme-stats.vercel.app/api/top-langs/?username=Biah98&layout=compact&langs_count=7&theme=noctis_minimus"/>
 
 </div>
 
