@@ -10,6 +10,9 @@ Bem-vindo(a) ao meu GitHub!😊
 
 - 😄 Pronomes: Ela/Dela
 
+
+
+
 <div align="center">
 
 <img width="48%" src= "https://github-readme-stats.vercel.app/api?username=Biah98&show_icons=true&theme=noctis_minimus"/>
