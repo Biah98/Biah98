@@ -1,4 +1,4 @@
-### Olá, sou a Beatriz Carvalho!
+### Olá! sou a Beatriz Carvalho,
 
 Bem-vindo(a) ao meu GitHub!😊
 
