@@ -11,6 +11,11 @@ Bem-vindo(a) ao meu GitHub!😊
 - 😄 Pronomes: Ela/Dela
 
 
+<div align="right">
+
+  <img width= "400px" src= "https://user-images.githubusercontent.com/75185802/149973447-7ad7faa9-c890-41ec-9d09-081106b62aa2.gif"/>
+</div>
+
 
 
 <div align="center">
