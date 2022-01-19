@@ -1,28 +1,22 @@
-### Olá! sou a Beatriz Carvalho,
-
-Bem-vindo(a) ao meu GitHub!😊
-
-
-
-- Aluna da Generation Brazil
-
-- 🌱 Atualmente estou aprendendo Java
-
-- 😄 Pronomes: Ela/Dela
-
-
-<div align="right">
-
-  <img width= "400px" src= "https://user-images.githubusercontent.com/75185802/149973447-7ad7faa9-c890-41ec-9d09-081106b62aa2.gif"/>
+<div align="center">
+    <h1>Olá! sou a Beatriz Carvalho, <br> Bem-vindo(a) ao meu GitHub!😊</h1>
+    <img height="280" width= "280" src= "https://user-images.githubusercontent.com/75185802/149973447-7ad7faa9-c890-41ec-9d09-081106b62aa2.gif"/>
 </div>
 
+<div align="left">
+  <p>
+    
+    - Aluna da Generation Brazil
 
+    - 🌱 Atualmente estou aprendendo Java
 
-<div align="center">
-
-<img width="48%" src= "https://github-readme-stats.vercel.app/api?username=Biah98&show_icons=true&theme=noctis_minimus"/>
-<img width="49%" src= "https://github-readme-stats.vercel.app/api/top-langs/?username=Biah98&layout=compact&langs_count=7&theme=noctis_minimus"/>
-
+    - 😄 Pronomes: Ela/Dela
+    
+   </p>
+</div>
+<div align="left">
+    <img height="45%" src= "https://github-readme-stats.vercel.app/api?username=Biah98&show_icons=true&theme=noctis_minimus"/>
+    <img heigth="50%" width="45%" src= "https://github-readme-stats.vercel.app/api/top-langs/?username=Biah98&layout=compact&langs_count=7&theme=noctis_minimus"/>
 </div>
 
 ## Tecnologias
@@ -36,3 +30,5 @@ Bem-vindo(a) ao meu GitHub!😊
 ## Redes Sociais
 
 [![linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/beatriz-scarvalho98/)
+
+![Snake animation](https://github.com/Biah98/Biah98/blob/output/github-contribution-grid-snake.svg)
