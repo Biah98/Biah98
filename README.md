@@ -17,7 +17,7 @@
    </p>
 </div>
 <div align="left">
-    <img height="45%" src= "https://github-readme-stats.vercel.app/api?username=Biah98&show_icons=true&theme=panda"/>
+    <img height="40%" src= "https://github-readme-stats.vercel.app/api?username=Biah98&show_icons=true&theme=panda"/>
     <img heigth="49" src= "https://github-readme-stats.vercel.app/api/top-langs/?username=Biah98&layout=compact&langs_count=7&theme=panda"/>
 </div>
 
