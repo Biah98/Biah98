@@ -5,18 +5,20 @@
 
 <div align="left">
   <p>
-    
+      
+    - Cursando Análise e Desenvolvimente de Sistemas
+      
     - Aluna da Generation Brazil
 
     - 🌱 Atualmente estou aprendendo Java
 
     - 😄 Pronomes: Ela/Dela
-    
+      
    </p>
 </div>
 <div align="left">
-    <img height="45%" src= "https://github-readme-stats.vercel.app/api?username=Biah98&show_icons=true&theme=noctis_minimus"/>
-    <img heigth="50%" width="45%" src= "https://github-readme-stats.vercel.app/api/top-langs/?username=Biah98&layout=compact&langs_count=7&theme=noctis_minimus"/>
+    <img height="45%" src= "https://github-readme-stats.vercel.app/api?username=Biah98&show_icons=true&theme=panda"/>
+    <img heigth="45%" width="45%" src= "https://github-readme-stats.vercel.app/api/top-langs/?username=Biah98&layout=compact&langs_count=7&theme=panda"/>
 </div>
 
 ## Tecnologias
