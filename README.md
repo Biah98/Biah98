@@ -10,8 +10,6 @@
       
     - Aluna da Generation Brazil
 
-    - 🌱 Atualmente estou aprendendo Java
-
     - 😄 Pronomes: Ela/Dela
       
    </p>
