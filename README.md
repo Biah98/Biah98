@@ -40,3 +40,8 @@
 
 ![snake animation](https://raw.githubusercontent.com/Biah98/Biah98/output/github-contribution-grid-snake.svg)
 
+
+
+![snake animation](https://Biah98.github.io/seu-repo/snk.svg)
+
+
