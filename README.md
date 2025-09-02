@@ -35,4 +35,5 @@
 
 [![linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/beatriz-scarvalho98/)
 
-![Snake animation](https://github.com/Biah98/Biah98/blob/output/github-contribution-grid-snake.svg)
+<img src="https://raw.githubusercontent.com/Platane/snk/master/snk.svg" alt="GitHub Snake">
+
